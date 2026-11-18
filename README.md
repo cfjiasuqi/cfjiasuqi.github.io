@@ -1,4 +1,4 @@
-# CF加速器节点 | 11月11日22.1M/S|免费Clash节点/SSR节点/Shadowrocket节点/Singbox节点/V2ray节点节点推荐，在线Clash机场梯子购买推荐  更新时间 2026-11-11 09:50:08
+# CF加速器节点 | 11月18日22.8M/S|免费Clash节点/SSR节点/Shadowrocket节点/V2ray节点/Singbox节点节点推荐，在线Clash机场梯子购买推荐  更新时间 2026-11-18 11:44:02
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://cfjiasuqi.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://cfjiasuqi.github.io/uploads/2026/11/0-20261111.yaml
-- https://cfjiasuqi.github.io/uploads/2026/11/1-20261111.yaml
-- https://cfjiasuqi.github.io/uploads/2026/11/2-20261111.yaml
-- https://cfjiasuqi.github.io/uploads/2026/11/3-20261111.yaml
-- https://cfjiasuqi.github.io/uploads/2026/11/4-20261111.yaml
+- https://cfjiasuqi.github.io/uploads/2026/11/0-20261118.yaml
+- https://cfjiasuqi.github.io/uploads/2026/11/1-20261118.yaml
+- https://cfjiasuqi.github.io/uploads/2026/11/2-20261118.yaml
+- https://cfjiasuqi.github.io/uploads/2026/11/3-20261118.yaml
+- https://cfjiasuqi.github.io/uploads/2026/11/4-20261118.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://cfjiasuqi.github.io/uploads/2026/11/0-20261111.txt
-- https://cfjiasuqi.github.io/uploads/2026/11/1-20261111.txt
-- https://cfjiasuqi.github.io/uploads/2026/11/2-20261111.txt
-- https://cfjiasuqi.github.io/uploads/2026/11/3-20261111.txt
-- https://cfjiasuqi.github.io/uploads/2026/11/4-20261111.txt
+- https://cfjiasuqi.github.io/uploads/2026/11/0-20261118.txt
+- https://cfjiasuqi.github.io/uploads/2026/11/1-20261118.txt
+- https://cfjiasuqi.github.io/uploads/2026/11/2-20261118.txt
+- https://cfjiasuqi.github.io/uploads/2026/11/3-20261118.txt
+- https://cfjiasuqi.github.io/uploads/2026/11/4-20261118.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://cfjiasuqi.github.io/uploads/2026/11/20261111.json
+- https://cfjiasuqi.github.io/uploads/2026/11/20261118.json
 
 ## 更多Clash节点订阅 ：
 
